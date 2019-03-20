@@ -23,6 +23,11 @@ A curated list of Web Development resources.
 * [Zurb Foundarion](https://github.com/zurb/foundation-zurb-template)
 * [Skeleton](https://github.com/dhg/Skeleton)
 
+#### Animation
+
+* [GSAP](https://github.com/greensock/GreenSock-JS/)
+* [AnimeJS](https://github.com/juliangarnier/anime/)
+
 #### Code Style
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-7a36a4.svg)](https://github.com/prettier/prettier)
