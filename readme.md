@@ -28,6 +28,11 @@ A curated list of Web Development resources.
 * [GSAP](https://github.com/greensock/GreenSock-JS/)
 * [AnimeJS](https://github.com/juliangarnier/anime/)
 
+#### Environment
+
+* [Gulp](https://github.com/gulpjs/gulp)
+* [browserSync](https://github.com/Browsersync/browser-sync)
+
 #### Code Style
 
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-7a36a4.svg)](https://github.com/prettier/prettier)
