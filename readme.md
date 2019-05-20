@@ -23,6 +23,12 @@ A curated list of Web Development resources.
 * [Zurb Foundarion](https://github.com/zurb/foundation-zurb-template)
 * [Skeleton](https://github.com/dhg/Skeleton)
 
+  ##### Wordpress
+
+	* [Sage](https://roots.io/sage/)
+	* [Bedrock](https://roots.io/bedrock/)
+	* [Trellis](https://roots.io/trellis/)
+
 #### Animation
 
 * [GSAP](https://github.com/greensock/GreenSock-JS/)
@@ -33,7 +39,7 @@ A curated list of Web Development resources.
 * [Gulp](https://github.com/gulpjs/gulp)
 * [browserSync](https://github.com/Browsersync/browser-sync)
 
-#### Graphics 
+#### Graphics
 
 * [Shaders](https://thebookofshaders.com/01/)
 
